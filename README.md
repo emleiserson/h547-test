@@ -4,4 +4,4 @@ This is a test repository for H547 class at IUPUI.
 
 ### I can't wait to write in HTML!
 
-[here's my link to Google](www.google.com)
+[here's my link to Google](http://www.google.com)
